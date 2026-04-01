@@ -8,3 +8,4 @@ Fuse (50amp) https://amzn.eu/d/055570nm
 Fuses (Varies) https://amzn.eu/d/0805FKo6
 Uranium Glass https://ebay.us/m/Vq4OwM
 LED (Optional) https://amzn.eu/d/073K7Ebv
+CPU Cooler https://amzn.eu/d/07P95Ptf
