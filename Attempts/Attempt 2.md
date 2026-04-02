@@ -8,4 +8,5 @@ Changes:
 1) Sponge has been used instead of felt.
 2) Less isopropanol has been used.
 3) It was not left to dry for one minute before turning on the chamber.
+
 This was to try and solve the problem of the isopropanol pooling on the bottom of the cold plate/chamber.
