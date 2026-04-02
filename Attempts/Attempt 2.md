@@ -13,7 +13,8 @@ This was to try and solve the problem of the isopropanol pooling on the bottom o
 
 Observation 1:
 
-
+Note lid was no removed as to not disterb the chamber so observatiosn are limmited.
+Isopropal alchole still aperaed to be pooling at the bottom but less. No hazing/rain effect. No visible trails.
 
 Observation 2: 
 
