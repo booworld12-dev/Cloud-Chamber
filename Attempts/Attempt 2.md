@@ -13,9 +13,10 @@ This was to try and solve the problem of the isopropanol pooling on the bottom o
 
 Observation 1:
 
-Note lid was no removed as to not disterb the chamber so observatiosn are limmited.
-Isopropal alchole still aperaed to be pooling at the bottom but less. No hazing/rain effect. No visible trails.
+Note: The lid was not removed as to not disturb the chamber, so observations are limited.
+Isopropanol still appeared to be pooling at the bottom but less. No hazing/rain effect. No visible trails.
 
 Observation 2: 
 
-No visible trails. No visible hazing/rain effec. Substancial amouts of isopropal alchole found on cold plate. Cold plate at -21°C.
+No visible trails. No visible hazing/rain effect. Substantial amounts of isopropanol found on the cold plate. The cold plate is at -21°C.
+Suspected issue: Isopropanol pooling on the cold plate/bottom of the chamber.
