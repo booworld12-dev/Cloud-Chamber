@@ -9,7 +9,7 @@ Items:
 6) Uranium Glass https://ebay.us/m/Vq4OwM
 7) LED (Optional) https://amzn.eu/d/073K7Ebv
 8) CPU Cooler https://amzn.eu/d/07P95Ptf
-9) 
+9) Peltier (TEC2-25408) https://ebay.us/m/o0zTrM
 10) Appropriate Wires
 
 Assembly:
