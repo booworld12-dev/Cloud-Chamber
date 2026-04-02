@@ -6,4 +6,5 @@ Setup:
 
 Observations:
 
-No trails were visible. No hazing/rain effect seemed to be present. The cold plate measured -24°C. A small pool of isopropyl alcohol pounded on the cold plate. Suspected issue - isopropyl measured pooling on the cold plate.
+No trails were visible. No hazing/rain effect seemed to be present. The cold plate measured -24°C. A small pool of isopropyl alcohol pounded on the cold plate. 
+Suspected issue - isopropyl measured pooling on the cold plate.
