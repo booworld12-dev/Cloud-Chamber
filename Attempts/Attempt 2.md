@@ -18,3 +18,4 @@ Isopropal alchole still aperaed to be pooling at the bottom but less. No hazing/
 
 Observation 2: 
 
+No visible trails. No visible hazing/rain effec. Substancial amouts of isopropal alchole found on cold plate. Cold plate at -21°C.
