@@ -7,7 +7,7 @@ Items (Affiliat links):
 4) 50A Fuse https://amzn.to/3PWdRKx
 5) Assorted Fuses https://amzn.to/3PWdRKx
 6) Uranium Glass (radiation source) https://ebay.us/m/Vq4OwM
-7) LED Strip (Optional) https://amzn.eu/d/073K7Ebv
+7) LED Strip (Optional) https://amzn.to/47USKhH
 8) CPU AIO Cooler (Thermalright Aqua Elite 360) https://amzn.to/4dDDrhd
 9) Peltier Module (TEC2-25408) https://ebay.us/m/o0zTrM
 10) Appropriate gauge wiring
