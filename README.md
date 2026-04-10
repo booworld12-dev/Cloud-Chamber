@@ -8,7 +8,7 @@ Items:
 5) Assorted Fuses https://amzn.eu/d/0805FKo6
 6) Uranium Glass (radiation source) https://ebay.us/m/Vq4OwM
 7) LED Strip (Optional) https://amzn.eu/d/073K7Ebv
-8) CPU AIO Cooler (Thermalright Aqua Elite 360) https://amzn.eu/d/07P95Ptf
+8) CPU AIO Cooler (Thermalright Aqua Elite 360) https://amzn.to/4dDDrhd
 9) Peltier Module (TEC2-25408) https://ebay.us/m/o0zTrM
 10) Appropriate gauge wiring
 11) Tupperware container
