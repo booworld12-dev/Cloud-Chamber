@@ -1,7 +1,7 @@
 # Cloud Chamber Assembly:
 Items:
 
-1) Thermal Paste https://amzn.eu/d/0agoYp4C
+1) Thermal Paste https://amzn.to/4sXT87D
 2) Power Supply (12v) https://amzn.eu/d/09x4UJpa
 3) Fused Distribution Block https://amzn.eu/d/0c6eDBLg
 4) 50A Fuse https://amzn.eu/d/055570nm
