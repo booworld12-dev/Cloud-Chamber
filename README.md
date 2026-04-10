@@ -1,11 +1,11 @@
 # Cloud Chamber Assembly:
-Items:
+Items (Affiliat links):
 
 1) Thermal Paste https://amzn.to/4sXT87D
 2) Power Supply (12v) https://amzn.to/4vc8kPY
 3) Fused Distribution Block https://amzn.to/4cppkKe
 4) 50A Fuse https://amzn.to/3PWdRKx
-5) Assorted Fuses https://amzn.eu/d/0805FKo6
+5) Assorted Fuses https://amzn.to/3PWdRKx
 6) Uranium Glass (radiation source) https://ebay.us/m/Vq4OwM
 7) LED Strip (Optional) https://amzn.eu/d/073K7Ebv
 8) CPU AIO Cooler (Thermalright Aqua Elite 360) https://amzn.to/4dDDrhd
