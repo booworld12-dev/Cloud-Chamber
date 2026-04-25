@@ -2,7 +2,7 @@
 
 Setup:
 
-2 g of isopropanol was poured over a disk-shaped sponge secured to the top of the chamber by a screw, which had been drilled through the lid of the chamber again. 0.3 g of isopropanol was placed inside the chamber. The chamber was then left for 15 minutes before first observation and left for another 5 minutes for second observation.
+2 g of isopropanol was poured over a disk-shaped sponge secured to the top of the chamber by a screw, which had been drilled through the lid of the chamber again. 0.3 g of uranium glass was placed inside the chamber. The chamber was then left for 15 minutes before first observation and left for another 5 minutes for second observation.
 
 Changes (From Attempt 1):
 1) Sponge has been used instead of felt.
