@@ -13,6 +13,9 @@ Items (Affiliat links):
 10) Appropriate gauge wiring
 11) Tupperware container
 12) Felt or Sponge
+Used in attempts 3 onwards:
+13) 12v PWM Motor Speed Controller https://amzn.to/4w8I9dJ
+14) Silicone Heating Pad https://amzn.to/4u7iG2j
 
 Wiring:
 
@@ -24,8 +27,12 @@ Using the included daisy-chain cable, link all fans of the AIO cooler (8) in ser
 
 Finally, fit appropriately rated fuses from the assorted set (5) into the remaining fuse slots on the distribution block (3) according to the current draw of each connected component.
 
-Pysical:
+For attempts 3 onwards - Connect the positive/negative end of the 12v PWM Motor Speed Controller (13) to the appropriate end on the Power Supply (12v) (2). Then connect both of the wires (doesn’t matter which) of the Silicone Heating Pad (14) to the motor end on the 12v PWM Motor Speed Controller (13).
+
+Physical:
 
 Apply thermal paste (1) to the cold plate of the AIO cooler (8) and place the Peltier module (9) on top, cold side facing upward. Apply a second layer of thermal paste to the upper surface of the Peltier module (9) and place the Tupperware container (11) directly on top.
 
 Place the radiation source, uranium glass (6), inside the container. Attach felt or sponge (12) to the interior of the lid, saturate it with high-purity isopropyl alcohol, and seal the container. Power on the supply (2) and allow the system time to reach operating temperature before expecting visible particle tracks.
+
+For attempts 3 onwards - Adjust the 12v PWM Motor Speed Controller (13) until you get an appropriate temperature (I used roughly 50°C).
