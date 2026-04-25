@@ -13,7 +13,9 @@ Items (Affiliat links):
 10) Appropriate gauge wiring
 11) Tupperware container
 12) Felt or Sponge
+
 Used in attempts 3 onwards:
+
 13) 12v PWM Motor Speed Controller https://amzn.to/4w8I9dJ
 14) Silicone Heating Pad https://amzn.to/4u7iG2j
 
